@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test  name="C:/MobileAutomation/mobileSelenium/src/test" preserve-order="true">
+        <classes>
+            <class name="com.mobile.calculator.test.Pages.CalculatorClass"/>
+        </classes>
+    </test>
+    <test  name="C:/MobileAutomation/mobileSelenium/src/test" preserve-order="true">
+        <classes>
+            <class name="Pages.com.mobiletest.flipkart.test.AmazonClass"/>
+        </classes>
+    </test>
+</suite>
